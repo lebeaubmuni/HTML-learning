@@ -13,3 +13,11 @@
 </main>
 
 <footer id="footer">Copyright Cat Photo App</footer>
+
+
+
+<p>
+  View more
+  <a href="https://www.freecatphotoapp.com" target="_blank">cat photos</a>
+</p>
+<!-- This lets me post a text, followed by a link that will open on another page. -->
