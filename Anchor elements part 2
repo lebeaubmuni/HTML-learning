@@ -21,3 +21,7 @@
   <a href="https://www.freecatphotoapp.com" target="_blank">cat photos</a>
 </p>
 <!-- This lets me post a text, followed by a link that will open on another page. -->
+
+
+<!-- This allows me me to make a clickable link, an img-->
+<p>Click here to view more <a href="#"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="Three kittens running towards the camera."></a> </p>
